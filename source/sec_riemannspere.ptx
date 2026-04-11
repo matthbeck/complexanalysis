@@ -345,7 +345,7 @@
         </md>
         and so
         <me>
-          h(z)\ = \\frac{az+b}{cz+d} \ = \ \frac{az+0}{0+d} \ = \ \frac ad \, z
+          h(z)\ = \ \frac{az+b}{cz+d} \ = \ \frac{az+0}{0+d} \ = \ \frac ad \, z
           \ = \ z \, 
         </me>,
         the identity function.
