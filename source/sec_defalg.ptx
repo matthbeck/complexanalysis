@@ -69,7 +69,7 @@
       
       <mdn>
         <mrow xml:id="eq-firstadd">
-          \amp (x+y)+(a,b)\in \C
+          \amp (x,y)+(a,b)\in \C
         </mrow>
         <mrow>
           \amp \bigl( (x,y)+(a,b) \bigr) + (c,d) = (x,y) +
